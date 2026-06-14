@@ -1,16 +1,20 @@
-\<!--
+# 🪐 I‘m MercuryLotus, 火星甘蔗 🎋
+- GitHub 什么时候能写扩条了？
+- 并非扩条，真让我写我也写不出来，我没有任何兴趣爱好。
+- 性别是核废料，不是武装直升机。
+- 我是中国人，我正在学习中文。
+- 山河四省之一人，高考排名仅 9%，为曾经视野狭隘的自己感到悲哀。
+- 脑子比正常人慢 150%，脑雾患者见了我会都觉得自己没脑雾。
+- 掌握被所有人嫌弃的超能力，甚至没人愿意把我加入牢字辈。
+- 零自控力，零精力，零想象力，零反应力。
+- 我不要每个人给我一块钱，我只要每个人给我 0.01% 的精力。
+- 应该喜欢听歌，品味过于小众，导致没喜欢几首歌都听腻了。
+- 从来没用过连词，而且从来没说过语气词喔，从来没在句子后面加过括号（
+- 我喜欢戴头戴式耳机。我喜欢梦到什么说什么。我喜欢吃麦当劳。
+- 目前正在尝试 [数据删除]。
+- 怎么一行代码都没有？你来 GitHub 干啥的？
+- 不知道。不是在回答上一句话。
+- 我想爱这个世界，我想被世界爱着。
+- 特别容易困，哈啊，写不
 
-**MCR-LTS** is a ✨ _special_ ✨ person because its `soul` (not this file) have been eliminated.
-
-Here are some ideas to get you ended:
-
-- 🔭 I’m currently working on sleeping and distracting.
-- 🌱 I’m currently learning vibe coding and envious.
-- 👯 I’m looking to collaborate on anything, one is enough.
-- 🤔 I’m looking for help with how to make communication with others.
-- 💬 Ask me about Why my family haven't died yet。
-- 📫 How to reach me: You don't want to.
-- 😄 Pronouns: Radioactive waste.
-- ⚡ Fun fact: I'm the funniest joke in the world.
-
-\-->
+头像画师：宙風 みけ
